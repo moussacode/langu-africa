@@ -90,13 +90,13 @@ body {
 /* RESPONSIVE : sur mobile */
 @media (max-width: 768px) {
   .nav-logo img {
-    width: 90px;   /* réduit un peu */
+    width: 120px;   /* réduit un peu */
   }
 }
 
 @media (max-width: 480px) {
   .nav-logo img {
-    width: 70px;   /* encore plus petit pour petit écran */
+    width: 90px;   /* encore plus petit pour petit écran */
   }
 }
 
